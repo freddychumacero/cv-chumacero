@@ -1,0 +1,21 @@
+# Dependencias Node.js
+node_modules/
+npm-debug.log*
+
+# Build de React
+frontend/build/
+
+# Variables de entorno
+.env
+.env.local
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

@@ -200,7 +200,7 @@ INSERT INTO formacion (titulo, institucion, anio, persona_id) VALUES
     "id": 1,
     "nombre": "Freddy",
     "apellido": "Chumacero",
-    "ciudad": "Lima",
+    "ciudad": "Santa Cruz",
     "foto": "https://via.placeholder.com/150/4f46e5/ffffff?text=FC"
   },
   "formacion": [
@@ -392,7 +392,7 @@ Al ingresar a `http://localhost:3000` se visualiza:
 - ✅ Fotografía del estudiante
 - ✅ Nombre: Freddy
 - ✅ Apellido: Chumacero
-- ✅ Ciudad: Lima
+- ✅ Ciudad: Santa Cruz
 - ✅ Formación académica (listado desde MySQL)
 
 Toda la información proviene desde la base de datos MySQL mediante el backend Node.js.

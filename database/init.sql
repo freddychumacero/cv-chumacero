@@ -28,7 +28,7 @@ CREATE TABLE formacion (
 
 -- Datos personales
 INSERT INTO persona (nombre, apellido, ciudad, foto) VALUES
-('Freddy', 'Chumacero', 'Lima', 'https://via.placeholder.com/150/4f46e5/ffffff?text=FC');
+('Freddy', 'Chumacero', 'Santa Cruz', 'https://via.placeholder.com/150/4f46e5/ffffff?text=FC');
 
 -- Formación académica
 INSERT INTO formacion (titulo, institucion, anio, persona_id) VALUES
